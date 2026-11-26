@@ -1,0 +1,14 @@
+后海照片与 ASCII 字符场景署名 / Attribution
+
+原作：Shenzhen Nanshan Houhai skylines.png
+作者：YuCheinSYQ
+来源：https://commons.wikimedia.org/wiki/File:Shenzhen_Nanshan_Houhai_skylines.png
+许可：Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+本预览使用交接材料中的 houhai-1920.jpg，副本为 houhai-source.jpg。
+改编：将照片离线采样为 384×256 亮度数据，按明暗映射为字符梯度；
+抑制天空与下方植被的字符亮度，按视口裁切，竖屏保留较宽的天际线；
+由 Canvas 逐格绘制，并添加从上到下的混码显影。
+本 ASCII 改编及 js/city-field.js 亮度数据同样以 CC BY-SA 4.0 许可提供。
+未暗示原作者认可本作品集。上述许可限于该照片及其衍生字符场景。
